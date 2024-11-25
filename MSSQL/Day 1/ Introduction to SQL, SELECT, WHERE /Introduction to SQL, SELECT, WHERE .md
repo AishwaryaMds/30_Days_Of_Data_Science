@@ -90,11 +90,7 @@ Sort data in ascending or descending order.
 ## 📂 **Today's Folder Structure**  
 ```plaintext
 📁 Day1_SQL_Basics  
-    ├── SELECT_Examples.sql  
-    ├── WHERE_Examples.sql  
-    ├── LIKE_Examples.sql  
-    ├── ORDER_BY_Examples.sql  
-```  
+    ├── Day1.sql   
 
 ---
 
