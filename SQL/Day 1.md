@@ -7,7 +7,8 @@ Below is an explanation of each query in the SQL file.
 
 ---
 
-## **SQL Queries **
+## 
+**SQL Queries **
 
 ### **1. Basic SELECT Query**
 ```sql
