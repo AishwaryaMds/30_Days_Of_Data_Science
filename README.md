@@ -1,55 +1,99 @@
-# 🌟 0 to Hero: Data Scientist in 100 Days 🚀  
+# **30 Days of Data Science Journey** 🚀  
 
-Welcome to my journey of becoming a **Data Scientist** in 100 days! Every day, I’ll be sharing my progress, insights, and what I’ve learned to inspire and grow together with you. Let’s make this journey exciting, impactful, and full of learning!  
+## **Overview**  
+Welcome to my 30-day journey to mastering Data Science! This program is structured to build a solid foundation in SQL, Python, statistics, machine learning, and more, culminating in hands-on projects to apply all the learned skills.
 
-## 🎯 **What’s This All About?**  
-This repository is a daily log of my 100-day transformation, where I start from scratch and dive deep into the essential skills and tools needed to succeed in the field of **Data Science**.  
+---
 
-📘 Topics I'll Learn:  
-- **SQL (MSSQL)**  
-- **Python**  
-- **Machine Learning**  
-- **Deep Learning**  
-- **Power BI**  
-- **MLOps**  
-- **Azure**  
-- And so much more!  
+## **Course Plan**  
 
-## 📂 **Repository Structure**  
-This repository will be neatly organized into folders for each topic and daily progress. Here’s the example of the  structure:  
-```plaintext
-📁 SQL  
-    ├── Day 1: Introduction to SQL, SELECT, WHERE  
-    ├── Day 20: Advanced Joins and Subqueries  
-📁 Python  
-    ├── Day 5: Basics of Python  
-    ├── Day 50: Data Visualization with Matplotlib  
-📁 Machine_Learning  
-    ├── Day 60: Linear Regression  
-    ├── Day 80: Random Forest Classifier  
-📁 Deep_Learning  
-    ├── Day 90: Neural Networks Basics  
-    ├── Day 100: Deploying Deep Learning Models  
+### **Week 1: SQL**  
+- **Day 1**: Basics  
+  - SELECT, WHERE, GROUP BY  
+- **Day 2**: Joins  
+  - INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN  
+- **Day 3**: Subqueries and Nested Queries  
+  - Correlated and Non-Correlated Subqueries  
+- **Day 4**: Window Functions  
+  - ROW_NUMBER, RANK, DENSE_RANK, PARTITION BY  
+- **Day 5**: Aggregations and Functions  
+  - COUNT, SUM, AVG, MAX, MIN  
+- **Day 6**: Advanced SQL  
+  - Common Table Expressions (CTEs), Recursive Queries  
+- **Day 7**: SQL Practice  
+  - Solve complex queries on LeetCode or HackerRank  
 
-...And more as I progress through my 100-day roadmap! 🚀  
-```  
+---
 
-## ✨ **Why Follow Along?**  
-Every day, I’ll be:  
-- Sharing **notes**, **examples**, and **code** of what I learned.  
-- Building a community to grow together, because learning is better when shared!  
+### **Week 2: Python (NumPy, Pandas, Matplotlib, Seaborn)**  
+- **Day 8**: Python Basics  
+  - Variables, Data Types, Loops, Functions  
+- **Day 9**: NumPy  
+  - Arrays, Slicing, Broadcasting, Mathematical Operations  
+- **Day 10**: Pandas Basics  
+  - DataFrames, Series, Indexing, Filtering  
+- **Day 11**: Pandas Advanced  
+  - GroupBy, Merging, Aggregations, Pivot Tables  
+- **Day 12**: Data Visualization with Matplotlib  
+  - Line Plots, Bar Plots, Histograms, Scatter Plots  
+- **Day 13**: Data Visualization with Seaborn  
+  - Pairplots, Heatmaps, Distribution Plots  
+- **Day 14**: Python Practice and Small Project  
+  - End-to-end Data Analysis Task  
 
-Let’s grow together as we explore the world of data science! 💡  
+---
 
-## 📅 **Daily Progress**  
-Here’s how far I’ve come so far:  
-- **Day 1**: Introduction to MSSQL – SELECT, WHERE, LIKE, ORDER BY  
-- **Day 2**: Aggregate Functions and GROUP BY  
-...and much more to come!  
+### **Week 3: Statistics and Machine Learning Basics**  
+- **Day 15**: Descriptive Statistics  
+  - Mean, Median, Mode, Variance, Standard Deviation  
+- **Day 16**: Probability Basics  
+  - Conditional Probability, Bayes’ Theorem  
+- **Day 17**: Hypothesis Testing  
+  - t-tests, p-values, Confidence Intervals  
+- **Day 18**: Machine Learning Basics  
+  - Supervised vs. Unsupervised Learning, ML Workflow  
+- **Day 19**: Linear Regression  
+  - Concepts, Implementation with Scikit-Learn  
+- **Day 20**: Classification Algorithms  
+  - Logistic Regression, Decision Trees, Random Forests  
+- **Day 21**: ML Practice and Small Project  
+  - Build a model and evaluate performance  
 
-## 🌐 **Stay Connected**  
-I’d love to connect and share this journey with you:  
-- **LinkedIn**: [Aishwarya M DS](https://www.linkedin.com/in/aishwarya-m-ds/)  
-- **GitHub**: [My Profile](https://github.com/)  
+---
 
-Let’s make data science not just a goal but an **exciting adventure**! 💻🎉  
+### **Week 4: Advanced Topics**  
+- **Day 22**: Deep Learning Basics  
+  - Neural Networks, Activation Functions, Backpropagation  
+- **Day 23**: LLM (Large Language Models) Basics  
+  - Introduction to Transformers and Pre-trained Models  
+- **Day 24**: Azure ML  
+  - Setting up ML Pipelines, Deployment Basics  
+- **Day 25**: ML Ops  
+  - CI/CD for ML Models, Monitoring and Maintenance  
+- **Day 26**: Power BI Basics  
+  - Creating Dashboards, Interactive Reports  
+- **Day 27**: Power BI Advanced  
+  - DAX Functions, Advanced Visualizations  
+- **Day 28**: Data Science Practice  
+  - Prepare for Final Projects  
+
+---
+
+### **Final Days: Projects**  
+- **Day 29**: Project 1  
+  - End-to-end project using SQL and Python  
+- **Day 30**: Project 2  
+  - Advanced project integrating ML, DL, and Power BI  
+
+---
+
+## **How to Follow Along**  
+1. All SQL files, Python scripts, and visualizations will be added to this repository.  
+2. Daily reflections and learnings will be shared on [LinkedIn](www.linkedin.com/in/aishwaryamds).  
+
+---
+
+## **Reflection and Progress**  
+Stay tuned for daily updates and feel free to contribute by opening issues or pull requests. Let’s learn together! 😊  
+
+---
