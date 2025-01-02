@@ -71,12 +71,6 @@ GROUP BY department;
 
 ---
 
-## **Practice Ideas**
-- Try adding more filters to the `WHERE` clause (e.g., age range, department-specific queries).  
-- Use other aggregate functions like `SUM`, `MAX`, or `MIN` with the `GROUP BY` clause.  
-- Experiment with ordering results using `ORDER BY`.  
-
----
 
 ## **Reflection**  
 Learning SQL basics today gave me a better understanding of querying data effectively. 
